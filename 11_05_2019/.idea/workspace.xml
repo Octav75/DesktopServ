@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c2ebba6-c2c3-427a-8fb3-75ed8cd76983" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../$Recaptulare/TutorialsPoint/BasicSyntax/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../$Recaptulare/TutorialsPoint/BasicSyntax/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../$Recaptulare/TutorialsPoint/BasicSyntax/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/../$Recaptulare/TutorialsPoint/BasicSyntax/src/HelloWorld.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TestGIT" beforeDir="false" afterPath="$PROJECT_DIR$/../TestGIT" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -12,8 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -115,6 +116,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../$Recaptulare/TutorialsPoint/BasicSyntax" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -170,8 +172,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="24" width="1288" height="1004" extended-state="6" />
-    <editor active="true" />
+    <frame x="-4" y="24" width="1288" height="1004" extended-state="7" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26171243" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
