@@ -25,11 +25,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DivOfTwoNUmbers.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="160">
               <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/OperatiiMatematice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PrintKeybaordInput.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -57,6 +75,7 @@
         <option value="$PROJECT_DIR$/src/PrintKeybaordInput.java" />
         <option value="$PROJECT_DIR$/src/SumOfTwoNumbers.java" />
         <option value="$PROJECT_DIR$/src/DivOfTwoNUmbers.java" />
+        <option value="$PROJECT_DIR$/src/OperatiiMatematice.java" />
       </list>
     </option>
   </component>
@@ -73,6 +92,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -89,25 +109,12 @@
               <item name="Basic_I" type="b2602c69:ProjectViewProjectNode" />
               <item name="Basic_I" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DivOfTwoNUmbers" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="Basic_I" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Basic_I" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="PrintKeybaordInput" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="Basic_I" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Basic_I" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="SumOfTwoNumbers" type="1a9f42e2:ClassTreeNode" />
+              <item name="OperatiiMatematice" type="1a9f42e2:ClassTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -125,9 +132,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DivOfTwoNUmbers">
+  <component name="RunManager" selected="Application.OperatiiMatematice">
     <configuration name="DivOfTwoNUmbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DivOfTwoNUmbers" />
+      <module name="Basic_I" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperatiiMatematice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperatiiMatematice" />
       <module name="Basic_I" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -156,6 +170,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OperatiiMatematice" />
         <item itemvalue="Application.DivOfTwoNUmbers" />
         <item itemvalue="Application.SumOfTwoNumbers" />
         <item itemvalue="Application.PrintKeybaordInput" />
@@ -178,8 +193,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="24" width="1288" height="1004" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26171243" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -188,7 +204,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32844242" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32844242" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -220,6 +236,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/DivOfTwoNUmbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/PrintKeybaordInput.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -234,10 +257,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DivOfTwoNUmbers.java">
+    <entry file="file://$PROJECT_DIR$/src/OperatiiMatematice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        <state relative-caret-position="64">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
         </state>
       </provider>
     </entry>
