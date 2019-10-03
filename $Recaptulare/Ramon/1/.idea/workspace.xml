@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8cafaba-7d7a-47e9-8b41-f0ee1dfd6b69" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../$Recaptulare/Ramon/4FunctiiInJava2/src/main/FunctiiInJava2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../$Recaptulare/w3resource/Basic_I/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../$Recaptulare/w3resource/Basic_I/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../$Recaptulare/w3resource/Basic_I/out/production/Basic_I/MultiplicationTable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../$Recaptulare/w3resource/Basic_I/src/MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../$Recaptulare/w3resource/Basic_I/src/MultiplicationTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NumereComplexe/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumereComplexe/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestGIT" beforeDir="false" afterPath="$PROJECT_DIR$/../TestGIT" afterDir="false" />
+    <list default="true" id="9db96c88-5540-4105-8b8f-cf7a7a37f266" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../4FunctiiInJava2/src/main/FunctiiInJava2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../w3resource/Basic_I/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../w3resource/Basic_I/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../w3resource/Basic_I/out/production/Basic_I/MultiplicationTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../w3resource/Basic_I/src/MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../w3resource/Basic_I/src/MultiplicationTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03_05_2019/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03_05_2019/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NumereComplexe/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../NumereComplexe/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TestGIT" beforeDir="false" afterPath="$PROJECT_DIR$/../../../TestGIT" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,14 +24,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Daca_If/ExempleDeIf.java">
+        <entry file="file://$PROJECT_DIR$/src/main/MainClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-              <folding>
-                <element signature="e#498#499#0" expanded="true" />
-                <element signature="e#532#533#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="32">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -45,21 +42,27 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/StringBiulder/ClasaStrBuilder.java" />
-        <option value="$PROJECT_DIR$/src/Daca_If/ExempleDeIf.java" />
+        <option value="$PROJECT_DIR$/src/main/MainClass.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="48" />
-    <option name="width" value="1260" />
-    <option name="height" value="956" />
+    <option name="x" value="18" />
+    <option name="y" value="59" />
+    <option name="width" value="781" />
+    <option name="height" value="626" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -67,31 +70,25 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="03_05_2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="03_05_2019" type="462c0819:PsiDirectoryNode" />
+              <item name="1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="03_05_2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="03_05_2019" type="462c0819:PsiDirectoryNode" />
+              <item name="1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="03_05_2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="03_05_2019" type="462c0819:PsiDirectoryNode" />
+              <item name="1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Daca_If" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="03_05_2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="03_05_2019" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="StringBiulder" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -100,10 +97,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -118,12 +115,12 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="ExempleDeIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Daca_If.ExempleDeIf" />
-      <module name="03_05_2019" />
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.MainClass" />
+      <module name="1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Daca_If.*" />
+          <option name="PATTERN" value="main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,7 +130,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExempleDeIf" />
+        <item itemvalue="Application.MainClass" />
       </list>
     </recent_temporary>
   </component>
@@ -142,22 +139,22 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a8cafaba-7d7a-47e9-8b41-f0ee1dfd6b69" name="Default Changelist" comment="" />
-      <created>1557140426038</created>
+      <changelist id="9db96c88-5540-4105-8b8f-cf7a7a37f266" name="Default Changelist" comment="" />
+      <created>1561979401207</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1557140426038</updated>
-      <workItem from="1568266512375" duration="87000" />
+      <updated>1561979401207</updated>
+      <workItem from="1568266615009" duration="712000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87000" />
+    <option name="totallyTimeSpent" value="712000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="24" width="1288" height="1004" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26979" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -176,7 +173,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.3295711" />
+      <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -192,24 +189,10 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../.gitignoreCI">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StringBiulder/ClasaStrBuilder.java">
+    <entry file="file://$PROJECT_DIR$/src/main/MainClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Daca_If/ExempleDeIf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-          <folding>
-            <element signature="e#498#499#0" expanded="true" />
-            <element signature="e#532#533#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="32">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
